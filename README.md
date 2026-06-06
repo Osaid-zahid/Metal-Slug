@@ -275,11 +275,11 @@ Entity (abstract)
 
 ---
 
-## 🎬 Demo
+## 🎬 Ahmad's Repos
 
--> [GitHub Repository Link]
+-> https://github.com/i250817-oss/Metal-Slug
 
--> [Gameplay Video Link]
+
 
 ---
 
