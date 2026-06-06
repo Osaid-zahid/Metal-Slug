@@ -1,6 +1,6 @@
 # 🎮 Metal Slug — C++ & SFML
 
-> A fully playable Metal Slug inspired 2D run-and-gun shooter built from scratch in C++ and SFML with zero game engine, for CS-1004 Object Oriented Programming under instructor **Shehreyar Rashid**.
+> A fully playable Metal Slug inspired 2D run-and-gun shooter built from scratch in C++ and SFML with zero game engine, for CS-1004 Object Oriented Programming.
 
 ---
 
@@ -501,9 +501,9 @@ Metal-Slug/
 
 ## 🙏 Special Thanks
 
-Special thanks to our **goated instructor Shehreyar Rashid** for assigning this project and pushing us far beyond typical coursework.
+Special thanks to our **Instructor Mr.Shehreyar Rashid** for assigning this project and pushing us far beyond typical coursework.
 
-Special salute to group leader And my best project partner **Muhammad Osaid Zahid** for giving 100 percent every single time.
+Special salute to my project partner **Ahmad Ali Shah** for giving his full energy to this project.
 
 ---
 
